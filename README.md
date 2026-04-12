@@ -1,47 +1,46 @@
-# NLP Tokenization, Stemming, and Lemmatization using NLTK
+# NLP Practical Repository
 
-This project demonstrates fundamental Natural Language Processing (NLP) techniques using the NLTK library in Python. It includes multiple tokenization methods, stemming algorithms, and lemmatization applied to a sample sentence.
+This repository presents a structured implementation of fundamental and intermediate Natural Language Processing (NLP) techniques using Python. It focuses on core preprocessing methods and feature engineering approaches essential for text analysis and machine learning applications.
 
 ---
 
 ## Overview
 
-The goal of this project is to understand and implement essential NLP preprocessing steps such as tokenization, stemming, and lemmatization. These techniques are widely used in text analysis, machine learning, and information retrieval systems.
+The objective of this project is to understand and implement key NLP preprocessing techniques, including tokenization, stemming, lemmatization, and text vectorization. These methods form the foundation for building efficient and accurate NLP models used in classification, sentiment analysis, and information retrieval systems.
 
 ---
 
 ## Features
 
 ### Tokenization Techniques
-- Whitespace Tokenization
-- Punctuation-based Tokenization
-- Treebank Tokenization
-- Tweet Tokenization
-- Multi-Word Expression (MWE) Tokenization
+- Whitespace Tokenization  
+- Punctuation-based Tokenization  
+- Treebank Tokenization  
+- Tweet Tokenization  
+- Multi-Word Expression (MWE) Tokenization  
 
 ### Stemming Techniques
-- Porter Stemmer
-- Snowball Stemmer
+- Porter Stemmer  
+- Snowball Stemmer  
 
 ### Lemmatization
-- WordNet Lemmatizer
+- WordNet Lemmatizer  
+
+### Text Preprocessing Pipeline
+- Text Cleaning  
+- Stopword Removal  
+- Token Processing  
+- TF-IDF Feature Extraction  
 
 ---
 
-## Theory
-
-Natural Language Processing (NLP) involves processing and analyzing textual data. Tokenization is the process of splitting text into smaller units such as words or phrases. Stemming reduces words to their base form by removing suffixes, often producing non-dictionary words. Lemmatization improves upon stemming by converting words into their meaningful base form using linguistic rules and vocabulary. These preprocessing steps help improve the efficiency and accuracy of NLP applications.
-
----
-
-## Technologies Used
-
-- Python
-- NLTK (Natural Language Toolkit)
-
----
 ## Project Structure
-├── main.py
+
+## Project Structure
+├── main.py # Implementation of basic NLP techniques
+├── NLP 2.ipynb # Text cleaning, tokenization, and stopword removal
+├── NLP 3.ipynb # Lemmatization, label encoding, and TF-IDF
+├── NLP 4.ipynb # Complete NLP preprocessing pipeline and feature engineering
 ├── README.md
 
 

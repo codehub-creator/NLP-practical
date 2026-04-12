@@ -37,10 +37,10 @@ The objective of this project is to understand and implement key NLP preprocessi
 ## Project Structure
 
 ## Project Structure
-├── main.py # Implementation of basic NLP techniques
-├── NLP 2.ipynb # Text cleaning, tokenization, and stopword removal
-├── NLP 3.ipynb # Lemmatization, label encoding, and TF-IDF
-├── NLP 4.ipynb # Complete NLP preprocessing pipeline and feature engineering
+├── main.py 
+├── NLP 2.ipynb 
+├── NLP 3.ipynb
+├── NLP 4.ipynb 
 ├── README.md
 
 

@@ -38,6 +38,7 @@ The objective of this project is to understand and implement key NLP preprocessi
 
 ## Project Structure
 ├── main.py 
+
 ├── NLP 2.ipynb 
 ├── NLP 3.ipynb
 ├── NLP 4.ipynb 
